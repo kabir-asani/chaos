@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .border-neutral-light {
+        @apply border border-neutral border-opacity-20
+    }
+}
