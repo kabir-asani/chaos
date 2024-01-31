@@ -6,4 +6,16 @@
     .border-neutral-light {
         @apply border border-neutral border-opacity-20
     }
+    
+    .responsive-w-container {
+        @apply mx-6 lg:mx-auto lg:max-w-3xl
+    }
+
+    .col {
+        @apply flex flex-col
+    }
+
+    .row {
+        @apply flex flex-row
+    }
 }
