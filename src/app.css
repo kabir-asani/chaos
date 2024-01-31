@@ -8,7 +8,7 @@
     }
     
     .responsive-w-container {
-        @apply mx-6 lg:mx-auto lg:max-w-3xl
+        @apply mx-6 lg:mx-auto lg:max-w-3xl lg:w-full
     }
 
     .col {
