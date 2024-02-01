@@ -19,7 +19,9 @@
 </script>
 
 <a href="#{sectionId.valueOf()}" on:click={scrollToSection}>
-	<div class="bg-base-100 rounded-lg border border-primary px-2 py-1 text-sm text-primary">
+	<div
+		class="bg-base-100 rounded-lg border border-primary px-2 py-1 text-sm text-primary font-medium"
+	>
 		{text}
 	</div>
 </a>
