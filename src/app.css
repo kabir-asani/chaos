@@ -7,8 +7,8 @@
         @apply border border-neutral border-opacity-20
     }
     
-    .responsive-w-container {
-        @apply mx-6 lg:mx-auto lg:max-w-3xl lg:w-full
+    .responsive-x-container {
+        @apply mx-6 md:mx-12 lg:mx-auto lg:max-w-3xl lg:w-full
     }
 
     .col {
@@ -17,6 +17,10 @@
 
     .row {
         @apply flex flex-row
+    }
+
+    .wrap {
+        @apply flex flex-wrap
     }
 
     .grid-col-2 {

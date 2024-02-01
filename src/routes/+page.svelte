@@ -11,7 +11,7 @@
 </script>
 
 <div class="col gap-16">
-	<div class="col responsive-w-container gap-16 mt-16">
+	<div class="col responsive-x-container gap-16 mt-16">
 		<Header />
 		<About />
 		<Showcase />
