@@ -9,10 +9,10 @@
 		dateStyle: 'long'
 	});
 
-	import CopyButton from '$lib/components/shared/buttons/copy-button/CopyButton.svelte';
-	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
-	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
-	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
+	import CopyButton from '$lib/components/buttons/copy-button/CopyButton.svelte';
+	import SectionItem from '$lib/components/section/section-item/SectionItem.svelte';
+	import SectionTitle from '$lib/components/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/section/section-content/SectionContent.svelte';
 </script>
 
 <SectionItem id="contact">

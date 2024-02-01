@@ -2,8 +2,8 @@
 	export let text: String;
 	export let url: String;
 
-	import Row from '$lib/components/shared/layouts/row/Row.svelte';
-	import Linkable from '$lib/components/shared/linkable/Linkable.svelte';
+	import Row from '$lib/layouts/row/Row.svelte';
+	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
 
 <Linkable href={url.valueOf()} class="font-medium">

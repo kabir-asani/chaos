@@ -3,7 +3,7 @@
 	export let tag: String;
 	export let url: String;
 
-	import Linkable from '$lib/components/shared/linkable/Linkable.svelte';
+	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
 
 <div class="row gap-4 items-center">

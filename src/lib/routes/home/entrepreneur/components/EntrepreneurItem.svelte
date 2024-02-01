@@ -6,7 +6,7 @@
 	export let period: String;
 	export let onelineDescription: String;
 
-	import Linkable from '$lib/components/shared/linkable/Linkable.svelte';
+	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
 
 <div class="card bg-base-200 shadow-2xl border-neutral-light md:sticky-10">

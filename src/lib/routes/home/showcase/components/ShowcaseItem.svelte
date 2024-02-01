@@ -5,7 +5,7 @@
 	export let onelineDescription: String;
 	export let highlight: Boolean = false;
 
-	import Linkable from '$lib/components/shared/linkable/Linkable.svelte';
+	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
 
 <Linkable href={url}>

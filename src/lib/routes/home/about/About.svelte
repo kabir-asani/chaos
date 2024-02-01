@@ -1,8 +1,8 @@
 <script>
-	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
-	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
-	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
-	import Column from '$lib/components/shared/layouts/column/Column.svelte';
+	import SectionTitle from '$lib/components/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/section/section-content/SectionContent.svelte';
+	import SectionItem from '$lib/components/section/section-item/SectionItem.svelte';
+	import Column from '$lib/layouts/column/Column.svelte';
 </script>
 
 <SectionItem id="header">

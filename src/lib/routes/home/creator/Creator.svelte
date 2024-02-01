@@ -1,7 +1,7 @@
 <script>
-	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
-	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
-	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
+	import SectionItem from '$lib/components/section/section-item/SectionItem.svelte';
+	import SectionTitle from '$lib/components/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/section/section-content/SectionContent.svelte';
 	import CreatorItem from './components/CreatorItem.svelte';
 	import InstagramIcon from '$lib/assets/svg/InstagramIcon.svelte';
 	import YouTubeIcon from '$lib/assets/svg/YouTubeIcon.svelte';

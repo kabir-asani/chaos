@@ -1,8 +1,8 @@
 <script>
 	import ShowcaseItem from './components/ShowcaseItem.svelte';
-	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
-	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
-	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
+	import SectionItem from '$lib/components/section/section-item/SectionItem.svelte';
+	import SectionTitle from '$lib/components/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/section/section-content/SectionContent.svelte';
 </script>
 
 <SectionItem id="projects">
