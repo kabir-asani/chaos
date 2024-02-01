@@ -8,7 +8,7 @@
 </script>
 
 <SectionItem id="creator">
-	<SectionTitle slot="title" text="Creator Links" />
+	<SectionTitle slot="title" text="Creator" />
 	<SectionContent slot="content">
 		<CreatorItem text="@kabirstack" tag="Computer Science" url="https://instagram.com/kabirstack">
 			<InstagramIcon />
