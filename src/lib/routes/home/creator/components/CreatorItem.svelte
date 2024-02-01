@@ -6,7 +6,7 @@
 	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
 
-<div class="row gap-4 items-center">
+<div class={'row gap-4 items-center' + ' ' + ($$restProps.class || '')}>
 	<div class="col gap-2 items-start">
 		<Linkable href={url.valueOf()}>
 			<div class="text-primary">{text}</div>
