@@ -1,3 +1,3 @@
-<div class={'row' + ($$restProps.class || '')}>
+<div class={'row' + ' ' + ($$restProps.class || '')}>
 	<slot />
 </div>
