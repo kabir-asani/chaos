@@ -20,9 +20,13 @@
 	<SectionContent slot="content">
 		<p class="text-neutral">{currentTime} • {currentDate} IST</p>
 
-		<div class="flex flex-row items-center gap-2">
-			<p class="link text-neutral">iamkabirasani@gmail.com</p>
-			<CopyButton text="iamkabirasani@gmail.com" />
+		<div class="row items-center gap-2">
+			<a
+				href="https://tally.so/r/wgGBxl"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="btn btn-primary btn-sm shrink">Connect</a
+			>
 		</div>
 	</SectionContent>
 </SectionItem>
