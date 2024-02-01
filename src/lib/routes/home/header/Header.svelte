@@ -17,15 +17,13 @@
 	<div class="grow col gap-4 md:gap-2 items-center md:items-stretch justify-center">
 		<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
 
-		<div
-			class="wrap md:row gap-4 md:gap-2 font-medium items-center justify-center md:justify-normal"
-		>
+		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
 			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
 			<HighlightItem text="Developer" sectionId="experience" />
 			<HighlightItem text="Creator" sectionId="creator" />
 		</div>
 
-		<div class="wrap md:row gap-4 font-medium items-center justify-center md:justify-normal">
+		<div class="wrap md:row gap-4 items-center justify-center md:justify-normal">
 			<SocialLinkItem text="GitHub" url="https://github.com/kabir-asani">
 				<GitHubIcon />
 			</SocialLinkItem>
