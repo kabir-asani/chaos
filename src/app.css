@@ -18,4 +18,12 @@
     .row {
         @apply flex flex-row
     }
+
+    .grid-col-2 {
+        @apply grid grid-cols-2 grid-flow-row
+    }
+
+    .grid-row-2 {
+        @apply grid grid-rows-2 grid-flow-col
+    }
 }
