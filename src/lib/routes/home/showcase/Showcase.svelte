@@ -1,1 +1,26 @@
-<div class="h-12 bg-amber-400" />
+<script>
+	import ShowcaseItem from './components/ShowcaseItem.svelte';
+	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
+	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
+</script>
+
+<SectionItem id="projects">
+	<SectionTitle slot="title" text="Projects" />
+	<SectionContent slot="content" variant="grid">
+		<ShowcaseItem
+			emoji="🚀"
+			name="Gravity"
+			onelineDescription="Project Gravity"
+			highlight={true}
+			url="https://github.com/kabir-asani/gravity"
+		/>
+
+		<ShowcaseItem
+			emoji="😎"
+			name="Chaos"
+			onelineDescription="Curated Portfolio"
+			url="https://github.com/kabir-asani/chaos"
+		/>
+	</SectionContent>
+</SectionItem>
