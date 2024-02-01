@@ -18,10 +18,7 @@
 	};
 </script>
 
-<button
-	class="btn btn-sm bg-base-200 hover:border-neutral-light {$copied ? 'border-neutral-light' : ''}"
-	on:click={copyText}
->
+<button class="btn btn-sm bg-base-200 hover:border-neutral-light" on:click={copyText}>
 	<div class="flex flex-row gap-1 items-center text-sm text-neutral">
 		{$copied ? 'Copied' : 'Copy'}
 
