@@ -6,7 +6,7 @@
 	export let score: String;
 </script>
 
-<div class="card base-base-200 border-neutral-light shadow-2xl md:sticky-10">
+<div class="card bg-base-200 border-neutral-light shadow-2xl md:sticky-10">
 	<div class="card-body">
 		<div class="col md:row gap-2 items-start md:items-center">
 			<h1 class="text-xl">
