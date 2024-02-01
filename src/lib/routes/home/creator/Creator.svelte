@@ -1,1 +1,29 @@
-<div class="h-12 bg-amber-400" />
+<script>
+	import SectionItem from '$lib/components/shared/section/section-item/SectionItem.svelte';
+	import SectionTitle from '$lib/components/shared/section/section-title/SectionTitle.svelte';
+	import SectionContent from '$lib/components/shared/section/section-content/SectionContent.svelte';
+	import CreatorItem from './components/CreatorItem.svelte';
+	import InstagramIcon from '$lib/assets/svg/InstagramIcon.svelte';
+	import YouTubeIcon from '$lib/assets/svg/YouTubeIcon.svelte';
+</script>
+
+<SectionItem id="creator">
+	<SectionTitle slot="title" text="Creator Links" />
+	<SectionContent slot="content">
+		<CreatorItem text="@kabirstack" tag="Computer Science" url="https://instagram.com/kabirstack">
+			<InstagramIcon />
+		</CreatorItem>
+
+		<CreatorItem
+			text="@kabirstack"
+			tag="Computer Science"
+			url="https://www.youtube.com/channel/UCq4lb1t3uwb1UkFZO427ckw"
+		>
+			<YouTubeIcon />
+		</CreatorItem>
+
+		<CreatorItem text="@kabirsasani" tag="Linguistics" url="https://instagram.com/kabirsasani">
+			<InstagramIcon />
+		</CreatorItem>
+	</SectionContent>
+</SectionItem>
