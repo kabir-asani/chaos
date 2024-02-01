@@ -7,8 +7,8 @@
 
 <SectionItem id="header">
 	<SectionTitle slot="title" text="About" />
-	<SectionContent slot="content">
-		<Column slot="column" class="grow gap-4">
+	<SectionContent slot="content" variant="sole">
+		<Column class="grow gap-4">
 			<p>I'm Kabir Asani. I'm an entrepreneur, developer, content creator, and experimentalist.</p>
 
 			<p>
