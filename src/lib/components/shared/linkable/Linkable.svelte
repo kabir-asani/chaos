@@ -7,7 +7,7 @@
 	href={href.valueOf()}
 	target={external ? '_blank' : undefined}
 	rel={external ? 'noopener noreferrer' : undefined}
-	class="hover:opacity-60"
+	class={'hover:opacity-60' + ' ' + ($$restProps.class || '')}
 >
 	<slot />
 </a>
