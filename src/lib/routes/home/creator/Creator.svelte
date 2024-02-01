@@ -14,14 +14,6 @@
 			<InstagramIcon />
 		</CreatorItem>
 
-		<CreatorItem
-			text="@kabirstack"
-			tag="Computer Science"
-			url="https://www.youtube.com/channel/UCq4lb1t3uwb1UkFZO427ckw"
-		>
-			<YouTubeIcon />
-		</CreatorItem>
-
 		<CreatorItem text="@kabirsasani" tag="Linguistics" url="https://instagram.com/kabirsasani">
 			<InstagramIcon />
 		</CreatorItem>
