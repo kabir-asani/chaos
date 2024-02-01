@@ -30,4 +30,12 @@
     .grid-row-2 {
         @apply grid grid-rows-2 grid-flow-col
     }
+
+    .sticky-10 {
+        @apply sticky top-10
+    }
+
+    .sticky-20 {
+        @apply sticky top-20
+    }
 }
