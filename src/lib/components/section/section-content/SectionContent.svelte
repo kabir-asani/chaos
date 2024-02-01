@@ -7,13 +7,13 @@
 </script>
 
 {#if variant === 'grid'}
-	<div class="grow col md:grid-col-2 gap-4">
+	<div class={'grow col md:grid-col-2 gap-4' + ' ' + ($$restProps.class || '')}>
 		<slot />
 	</div>
 {/if}
 
 {#if variant === 'column'}
-	<div class="grow col gap-4">
+	<div class={'grow col gap-4' + ' ' + ($$restProps.class || '')}>
 		<slot />
 	</div>
 {/if}
