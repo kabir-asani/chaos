@@ -3,5 +3,5 @@
 </script>
 
 <div>
-	<h1 class="md:w-36 font-medium sticky-10">{text}</h1>
+	<h1 class="md:w-36 md:sticky-10 font-medium">{text}</h1>
 </div>
