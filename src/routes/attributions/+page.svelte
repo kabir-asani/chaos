@@ -9,6 +9,13 @@
 </script>
 
 <div class="col gap-4 responsive-x-container my-16">
+	<div class="text-sm breadcrumbs">
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/attributions">Attributions</a></li>
+		</ul>
+	</div>
+
 	<h1 class="text-xl">Attributions</h1>
 
 	<div class="col gap-4 items-stretch">
