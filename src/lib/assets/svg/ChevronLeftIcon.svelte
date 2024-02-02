@@ -1,4 +1,9 @@
-<svg width="512" height="512" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<svg
+	class={$$restProps.class || ''}
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	viewBox="0 0 24 24"
+>
 	<g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
 		<path d="M0 0h24v24H0z" />
 		<path
