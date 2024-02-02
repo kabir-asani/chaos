@@ -1,13 +1,13 @@
 <script>
-	import Header from '$lib/routes/home/header/Header.svelte';
-	import About from '$lib/routes/home/about/About.svelte';
-	import Showcase from '$lib/routes/home/showcase/Showcase.svelte';
-	import Experience from '$lib/routes/home/developer/Developer.svelte';
-	import Entrepreneur from '$lib/routes/home/entrepreneur/Entrepreneur.svelte';
-	import Education from '$lib/routes/home/education/Education.svelte';
-	import Creator from '$lib/routes/home/creator/Creator.svelte';
-	import Contact from '$lib/routes/home/contact/Contact.svelte';
-	import Footer from '$lib/routes/home/footer/Footer.svelte';
+	import Header from './components/header/Header.svelte';
+	import About from './components/about/About.svelte';
+	import Showcase from './components/showcase/Showcase.svelte';
+	import Experience from './components/developer/Developer.svelte';
+	import Entrepreneur from './components/entrepreneur/Entrepreneur.svelte';
+	import Education from './components/education/Education.svelte';
+	import Creator from './components/creator/Creator.svelte';
+	import Contact from './components/contact/Contact.svelte';
+	import Footer from './components/footer/Footer.svelte';
 </script>
 
 <div class="col gap-16">
