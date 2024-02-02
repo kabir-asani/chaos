@@ -21,12 +21,7 @@
 		<p class="text-neutral">{currentTime} • {currentDate} IST</p>
 
 		<div class="row items-center gap-2">
-			<a
-				href="https://tally.so/r/wgGBxl"
-				target="_blank"
-				rel="noopener noreferrer"
-				class="btn btn-primary btn-sm shrink">Connect</a
-			>
+			<a href="https://tally.so/r/wgGBxl" class="btn btn-primary btn-sm shrink">Connect</a>
 		</div>
 	</SectionContent>
 </SectionItem>
