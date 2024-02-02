@@ -1,3 +1,6 @@
+<script>
+</script>
+
 <div class="col gap-4 responsive-x-container my-16">
 	<div class="text-sm breadcrumbs">
 		<ul>
