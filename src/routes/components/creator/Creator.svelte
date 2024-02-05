@@ -14,6 +14,14 @@
 			<InstagramIcon />
 		</CreatorItem>
 
+		<CreatorItem
+			text="@kstacklive"
+			tag="7 Days To Everything"
+			url="https://www.instagram.com/kstacklive"
+		>
+			<InstagramIcon />
+		</CreatorItem>
+
 		<CreatorItem text="@kabirsasani" tag="Linguistics" url="https://instagram.com/kabirsasani">
 			<InstagramIcon />
 		</CreatorItem>
