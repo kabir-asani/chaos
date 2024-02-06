@@ -22,7 +22,7 @@
 			<InstagramIcon />
 		</CreatorItem>
 
-		<CreatorItem text="@kabirsasani" tag="Linguistics" url="https://instagram.com/kabirsasani">
+		<CreatorItem text="@intlkabir" tag="Linguistics" url="https://instagram.com/intlkabir">
 			<InstagramIcon />
 		</CreatorItem>
 	</SectionContent>
