@@ -10,19 +10,15 @@
 <SectionItem id="creator">
 	<SectionTitle slot="title" text="Creator" />
 	<SectionContent slot="content">
-		<CreatorItem text="@kabirstack" tag="Computer Science" url="https://instagram.com/kabirstack">
+		<CreatorItem text="@kabirstack" tag="Developer" url="https://instagram.com/kabirstack">
 			<InstagramIcon />
 		</CreatorItem>
 
-		<CreatorItem text="@intlkabir" tag="Linguistics" url="https://instagram.com/intlkabir">
+		<CreatorItem text="@intlkabir" tag="English" url="https://instagram.com/intlkabir">
 			<InstagramIcon />
 		</CreatorItem>
 
-		<CreatorItem
-			text="@kstacklive"
-			tag="7 Days To Everything"
-			url="https://www.instagram.com/kstacklive"
-		>
+		<CreatorItem text="@kstacklive" tag="Open Source" url="https://www.instagram.com/kstacklive">
 			<InstagramIcon />
 		</CreatorItem>
 	</SectionContent>
