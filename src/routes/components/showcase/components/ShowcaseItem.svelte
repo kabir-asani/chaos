@@ -4,6 +4,7 @@
 	export let emoji: String;
 	export let onelineDescription: String;
 	export let highlight: Boolean = false;
+	export let highlightContent: String | undefined = undefined;
 
 	import Linkable from '$lib/components/linkable/Linkable.svelte';
 </script>
@@ -16,7 +17,7 @@
 			<div class="row gap-2 items-center">
 				<h1 class="card-title">{name}</h1>
 				{#if highlight}
-					<div class="badge badge-accent text-sm">NEW</div>
+					<div class="badge badge-accent text-sm">{highlightContent ?? 'NEW'}</div>
 				{/if}
 			</div>
 
