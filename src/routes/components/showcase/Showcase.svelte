@@ -10,9 +10,10 @@
 	<SectionContent slot="content" variant="grid">
 		<ShowcaseItem
 			emoji="🚀"
-			name="Gravity"
-			onelineDescription="Project Gravity"
+			name="Intellecto"
+			onelineDescription="Project Tensor"
 			highlight={true}
+			highlightContent="Open Source"
 			url="https://github.com/kabir-asani/gravity"
 		/>
 
