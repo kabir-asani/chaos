@@ -4,7 +4,6 @@
 	import SectionContent from '$lib/components/section/section-content/SectionContent.svelte';
 	import CreatorItem from './components/CreatorItem.svelte';
 	import InstagramIcon from '$lib/assets/svg/InstagramIcon.svelte';
-	import YouTubeIcon from '$lib/assets/svg/YouTubeIcon.svelte';
 </script>
 
 <SectionItem id="creator">
@@ -12,16 +11,16 @@
 	<SectionContent slot="content">
 		<CreatorItem
 			text="@kabirstack"
-			tag="Developer • AI • Python • System Design"
+			tag="Computer Science • English"
 			url="https://instagram.com/kabirstack"
 		>
 			<InstagramIcon />
 		</CreatorItem>
 
 		<CreatorItem
-			text="@kstacklive"
-			tag="Open Source • Build In Public"
-			url="https://www.instagram.com/kstacklive"
+			text="@kstackdev"
+			tag="Computer Science • Hindi"
+			url="https://www.instagram.com/kstackdev"
 		>
 			<InstagramIcon />
 		</CreatorItem>
