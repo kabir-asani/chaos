@@ -14,7 +14,7 @@
 			onelineDescription="Project Tensor"
 			highlight={true}
 			highlightContent="Open Source"
-			url="https://github.com/kabir-asani/gravity"
+			url="https://github.com/kabir-asani/intellecto-python"
 		/>
 
 		<ShowcaseItem
