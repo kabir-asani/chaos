@@ -11,7 +11,7 @@
 		<ShowcaseItem
 			emoji="🚀"
 			name="Intellecto"
-			onelineDescription="Project Tensor"
+			onelineDescription="Inference Wrapper"
 			highlight={true}
 			highlightContent="Open Source"
 			url="https://github.com/kabir-asani/intellecto-python"
@@ -22,6 +22,13 @@
 			name="Chaos"
 			onelineDescription="Curated Portfolio"
 			url="https://github.com/kabir-asani/chaos"
+		/>
+
+		<ShowcaseItem
+			emoji="💫"
+			name="Tony Stark"
+			onelineDescription="X's Clone"
+			url="https://github.com/kabir-asani/TonyStark"
 		/>
 	</SectionContent>
 </SectionItem>
