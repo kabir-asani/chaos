@@ -1,4 +1,5 @@
 <script>
+	import Advertisement from './components/advertisement/Avertisement.svelte';
 	import Header from './components/header/Header.svelte';
 	import About from './components/about/About.svelte';
 	import Showcase from './components/showcase/Showcase.svelte';
@@ -11,7 +12,8 @@
 </script>
 
 <div class="col gap-16">
-	<div class="col responsive-x-container gap-16 mt-16">
+	<Advertisement />
+	<div class="col responsive-x-container gap-16 mt-4">
 		<Header />
 		<About />
 		<Showcase />
