@@ -5,6 +5,7 @@
 	import Linkable from '$lib/components/linkable/Linkable.svelte';
 	import ThemeButton from '$lib/components/buttons/theme-button/ThemeButton.svelte';
 	import RedditIcon from '$lib/assets/svg/RedditIcon.svelte';
+	import LinkedInIcon from '$lib/assets/svg/LinkedInIcon.svelte';
 </script>
 
 <footer class="footer items-center p-4 text-base-content bg-base-200">
@@ -18,12 +19,17 @@
 	</nav>
 	<nav class="grid-flow-col gap-4 items-center md:place-self-center md:justify-self-end">
 		<ThemeButton />
-		<Linkable href="https://instagram.com/kabir.asani">
-			<InstagramIcon class="h-5 w-5 fill-base-content" />
+
+		<Linkable href="https://linkedin.com/in/kabirasani/">
+			<LinkedInIcon class="h-5 w-5 fill-base-content" />
 		</Linkable>
 
 		<Linkable href="https://x.com/KabirAsani">
 			<XIcon class="h-5 w-5 fill-base-content" />
+		</Linkable>
+
+		<Linkable href="https://instagram.com/kabir.asani">
+			<InstagramIcon class="h-5 w-5 fill-base-content" />
 		</Linkable>
 
 		<Linkable href="https://github.com/kabir-asani">
