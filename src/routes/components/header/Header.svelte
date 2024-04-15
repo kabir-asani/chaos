@@ -5,6 +5,7 @@
 	import InstagramIcon from '$lib/assets/svg/InstagramIcon.svelte';
 	import RedditIcon from '$lib/assets/svg/RedditIcon.svelte';
 	import GitHubIcon from '$lib/assets/svg/GitHubIcon.svelte';
+	import LinkedInIcon from '$lib/assets/svg/LinkedInIcon.svelte';
 </script>
 
 <div class="col md:row gap-4 items-stretch md:items-center">
@@ -24,12 +25,16 @@
 		</div>
 
 		<div class="wrap md:row gap-4 items-center justify-center md:justify-normal">
-			<SocialLinkItem text="GitHub" url="https://github.com/kabir-asani">
-				<GitHubIcon />
+			<SocialLinkItem text="LinkedIn" url="https://linkedin.com/in/kabirasani/">
+				<LinkedInIcon />
 			</SocialLinkItem>
 
 			<SocialLinkItem text="X / Twitter" url="https://x.com/KabirAsani">
 				<XIcon />
+			</SocialLinkItem>
+
+			<SocialLinkItem text="GitHub" url="https://github.com/kabir-asani">
+				<GitHubIcon />
 			</SocialLinkItem>
 
 			<SocialLinkItem text="Instagram" url="https://instagram.com/kabir.asani">
