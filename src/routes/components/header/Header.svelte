@@ -10,8 +10,8 @@
 
 <div class="col md:row gap-4 items-stretch md:items-center">
 	<div class="avatar self-center md:w-36">
-		<div class="w-32 rounded-full">
-			<img src="/images/profile-picture.png" alt="Kabir Asani's close up shot" />
+		<div class="w-32 rounded-full border border-base-content">
+			<img src="/images/profile-picture.jpg" alt="Kabir Asani's close up shot" />
 		</div>
 	</div>
 
