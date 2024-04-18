@@ -20,7 +20,7 @@
 
 <a href="#{sectionId.valueOf()}" on:click={scrollToSection}>
 	<div
-		class="bg-base-100 rounded-lg border border-primary px-2 py-1 text-sm text-primary font-medium"
+		class="bg-base-100 rounded-lg border border-primary px-2 py-1 text-sm text-primary font-medium hover:opacity-75"
 	>
 		{text}
 	</div>
