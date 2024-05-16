@@ -10,16 +10,17 @@
 	<SectionContent slot="content">
 		<EntrepreneurshipItem
 			role="Founder & CEO"
-			company="Sarcasm Studio"
+			company="AI Shorts"
 			period="2024 - Present"
-			onelineDescription="Leading content creation efforts across channels with an aim to better people's life with qualitatively-dense content"
+			companyUrl="https://aishorts.club"
+			onelineDescription="AI Shorts -- Delivers latest AI news in under 60 words"
 		/>
 
 		<EntrepreneurshipItem
-			role="Co-Founder"
+			role="Co-founder"
 			company="Async Bay"
 			companyUrl="https://asyncbay.com"
-			period="2023 - Present"
+			period="2023 - 2024"
 			onelineDescription="Leading a software studio being run ground up by engineers (frontend & backend) with over 5+ years of experience each"
 		/>
 	</SectionContent>

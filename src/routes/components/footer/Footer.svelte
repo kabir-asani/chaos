@@ -14,8 +14,8 @@
 	</aside>
 	<nav class="grid-flow-col gap-4 items-center">
 		<Linkable href="/attributions" class="link" external={false}>Attributions</Linkable>
-		<Linkable href="/affiliates" class="link" external={false}>Affiliates</Linkable>
 		<Linkable href="/shout-outs" class="link" external={false}>Shout Outs</Linkable>
+		<Linkable href="/affiliates" class="link" external={false}>Affiliates</Linkable>
 	</nav>
 	<nav class="grid-flow-col gap-4 items-center md:place-self-center md:justify-self-end">
 		<ThemeButton />

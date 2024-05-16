@@ -16,8 +16,8 @@
 	<div class="col responsive-x-container gap-16 mt-4">
 		<Header />
 		<About />
-		<Showcase />
 		<Entrepreneur />
+		<Showcase />
 		<Experience />
 		<Creator />
 		<Education />

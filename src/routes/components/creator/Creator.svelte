@@ -9,19 +9,11 @@
 <SectionItem id="creator">
 	<SectionTitle slot="title" text="Creator" />
 	<SectionContent slot="content">
-		<CreatorItem
-			text="@kabirstack"
-			tag="Computer Science • English"
-			url="https://instagram.com/kabirstack"
-		>
+		<CreatorItem text="@kabirstack" tag="Computer Science" url="https://instagram.com/kabirstack">
 			<InstagramIcon />
 		</CreatorItem>
 
-		<CreatorItem
-			text="@kstackdev"
-			tag="Computer Science • Hindi"
-			url="https://www.instagram.com/kstackdev"
-		>
+		<CreatorItem text="@kstackdev" tag="Computer Science" url="https://www.instagram.com/kstackdev">
 			<InstagramIcon />
 		</CreatorItem>
 	</SectionContent>

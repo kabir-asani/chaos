@@ -23,12 +23,5 @@
 			onelineDescription="Curated Portfolio"
 			url="https://github.com/kabir-asani/chaos"
 		/>
-
-		<ShowcaseItem
-			emoji="💫"
-			name="Tony Stark"
-			onelineDescription="X's Clone"
-			url="https://github.com/kabir-asani/TonyStark"
-		/>
 	</SectionContent>
 </SectionItem>
