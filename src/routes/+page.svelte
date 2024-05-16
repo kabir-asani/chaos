@@ -17,8 +17,8 @@
 		<Header />
 		<About />
 		<Entrepreneur />
-		<Showcase />
 		<Experience />
+		<Showcase />
 		<Creator />
 		<Education />
 		<Contact />

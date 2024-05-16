@@ -6,7 +6,7 @@
 </script>
 
 <SectionItem id="experience">
-	<SectionTitle slot="title" text="Developer Experience" />
+	<SectionTitle slot="title" text="Work Experience" />
 	<SectionContent slot="content">
 		<DeveloperItem
 			role="Senior Software Engineer"
