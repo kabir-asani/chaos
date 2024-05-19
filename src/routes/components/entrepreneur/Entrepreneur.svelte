@@ -13,7 +13,7 @@
 			company="AI Shorts"
 			period="2024 - Present"
 			companyUrl="https://aishorts.club"
-			onelineDescription="AI Shorts -- Delivers latest AI news in under 60 words"
+			onelineDescription="AI Shorts delivers latest AI updates in under 60 words"
 		/>
 
 		<EntrepreneurshipItem
@@ -21,7 +21,7 @@
 			company="Async Bay"
 			companyUrl="https://asyncbay.com"
 			period="2023 - 2024"
-			onelineDescription="Leading a software studio being run ground up by engineers (frontend & backend) with over 5+ years of experience each"
+			onelineDescription="At Async Bay, we're delivering pixel-perfect MVPs"
 		/>
 	</SectionContent>
 </SectionItem>
