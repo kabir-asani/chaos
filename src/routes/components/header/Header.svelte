@@ -1,5 +1,6 @@
 <script>
 	import HighlightItem from './components/HighlightItem.svelte';
+	import HighlightLinkItem from './components/HighlightLinkItem.svelte';
 	import SocialLinkItem from './components/SocialLinkItem.svelte';
 	import XIcon from '$lib/assets/svg/XIcon.svelte';
 	import InstagramIcon from '$lib/assets/svg/InstagramIcon.svelte';
@@ -16,7 +17,11 @@
 	</div>
 
 	<div class="grow col gap-4 md:gap-2 items-center md:items-stretch justify-center">
-		<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
+		<div class="col md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
+			<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
+
+			<HighlightLinkItem text="Read Newsletter" url="https://newsletter.kabirasani.com" />
+		</div>
 
 		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
 			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
