@@ -28,7 +28,7 @@
 			<XIcon class="h-5 w-5 fill-base-content" />
 		</Linkable>
 
-		<Linkable href="https://instagram.com/kabir.asani">
+		<Linkable href="https://instagram.com/kabirstack">
 			<InstagramIcon class="h-5 w-5 fill-base-content" />
 		</Linkable>
 

@@ -12,18 +12,23 @@
 <div class="col md:row gap-4 items-stretch md:items-center">
 	<div class="avatar self-center md:w-36">
 		<div class="w-32 rounded-full border border-base-content">
-			<img src="/images/profile-picture.jpg" alt="Kabir Asani's close up shot" />
+			<img src="/images/profile-picture.png" alt="Kabir Asani's close up shot" />
 		</div>
 	</div>
 
 	<div class="grow col gap-4 md:gap-2 items-center md:items-stretch justify-center">
 		<div class="col md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
 			<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
+		</div>
 
-			<HighlightLinkItem text="Read Newsletter" url="https://newsletter.kabirasani.com" />
+		<div class="md:hidden">
+			<HighlightLinkItem text="Read Newsletter" url="https://newsletter.aishorts.club" />
 		</div>
 
 		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
+			<div class="hidden md:flex">
+				<HighlightLinkItem text="Read Newsletter" url="https://newsletter.aishorts.club" />
+			</div>
 			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
 			<HighlightItem text="Developer" sectionId="experience" />
 			<HighlightItem text="Creator" sectionId="creator" />
@@ -42,7 +47,7 @@
 				<GitHubIcon />
 			</SocialLinkItem>
 
-			<SocialLinkItem text="Instagram" url="https://instagram.com/kabir.asani">
+			<SocialLinkItem text="Instagram" url="https://instagram.com/kabirstack">
 				<InstagramIcon />
 			</SocialLinkItem>
 
