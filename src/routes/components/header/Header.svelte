@@ -21,17 +21,10 @@
 			<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
 		</div>
 
-		<div class="md:hidden">
-			<HighlightLinkItem text="Read Newsletter" url="https://newsletter.aishorts.club" />
-		</div>
-
 		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
-			<div class="hidden md:flex">
-				<HighlightLinkItem text="Read Newsletter" url="https://newsletter.aishorts.club" />
-			</div>
-			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
 			<HighlightItem text="Developer" sectionId="experience" />
 			<HighlightItem text="Creator" sectionId="creator" />
+			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
 		</div>
 
 		<div class="wrap md:row gap-4 items-center justify-center md:justify-normal">

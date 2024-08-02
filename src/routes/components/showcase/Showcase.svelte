@@ -23,5 +23,11 @@
 			onelineDescription="Curated Portfolio"
 			url="https://github.com/kabir-asani/chaos"
 		/>
+		<ShowcaseItem
+			emoji="🎄"
+			name="TwitterX"
+			onelineDescription="Clone"
+			url="https://github.com/kabir-asani/TonyStark"
+		/>
 	</SectionContent>
 </SectionItem>

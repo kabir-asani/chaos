@@ -9,7 +9,7 @@
 	<SectionTitle slot="title" text="About" />
 	<SectionContent slot="content" variant="sole">
 		<Column class="grow gap-4">
-			<p>I'm Kabir Asani. I'm an entrepreneur, developer, content creator, and experimentalist.</p>
+			<p>I'm Kabir Asani. I'm a full-stack mobile developer and tech-content creator.</p>
 
 			<p>
 				While professionally specialised in minimalist, aesthetic and functional experiences, I
@@ -21,10 +21,7 @@
 				roles at various tech companies thereafter.
 			</p>
 
-			<p>
-				I'm now on my entrepreneurial journey, whilst creating content with an aim and intent to
-				give back to the society.
-			</p>
+			<p>I recently ventured into enterpreneurship with AI Shorts and failed!</p>
 		</Column>
 	</SectionContent>
 </SectionItem>

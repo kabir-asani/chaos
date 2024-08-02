@@ -15,7 +15,6 @@
 	<div class="col responsive-x-container gap-16 mt-24">
 		<Header />
 		<About />
-		<Entrepreneur />
 		<Experience />
 		<Showcase />
 		<Creator />
