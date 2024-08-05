@@ -9,13 +9,6 @@
 	<SectionTitle slot="title" text="Work Experience" />
 	<SectionContent slot="content">
 		<DeveloperItem
-			role="Founder"
-			company="AI Shorts"
-			companyUrl="https://aishorts.club"
-			period="2024"
-			onelineDescription="Developed a short-form news app delivering byte-sized updates on AI, everyday"
-		/>
-		<DeveloperItem
 			role="Senior Software Engineer"
 			company="INDMoney"
 			companyUrl="https://indmoney.com"

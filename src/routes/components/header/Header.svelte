@@ -24,7 +24,6 @@
 		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
 			<HighlightItem text="Developer" sectionId="experience" />
 			<HighlightItem text="Creator" sectionId="creator" />
-			<HighlightItem text="Entrepreneur" sectionId="entrepreneurship" />
 		</div>
 
 		<div class="wrap md:row gap-4 items-center justify-center md:justify-normal">

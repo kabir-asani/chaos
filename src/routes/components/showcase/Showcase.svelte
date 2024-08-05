@@ -9,6 +9,24 @@
 	<SectionTitle slot="title" text="Projects" />
 	<SectionContent slot="content" variant="grid">
 		<ShowcaseItem
+			emoji="⭐️"
+			name="Silicon"
+			onelineDescription="Swift DSL"
+			highlight={true}
+			highlightContent="Open Source"
+			url="https://github.com/kabir-asani/Silicon"
+		/>
+
+		<ShowcaseItem
+			emoji="🎄"
+			name="AI Shorts"
+			onelineDescription="Short News App"
+			highlight={true}
+			highlightContent="Launched"
+			url="https://aishorts.club"
+		/>
+
+		<ShowcaseItem
 			emoji="🚀"
 			name="Intellecto"
 			onelineDescription="Inference Wrapper"
@@ -22,12 +40,6 @@
 			name="Chaos"
 			onelineDescription="Curated Portfolio"
 			url="https://github.com/kabir-asani/chaos"
-		/>
-		<ShowcaseItem
-			emoji="🎄"
-			name="TwitterX"
-			onelineDescription="Clone"
-			url="https://github.com/kabir-asani/TonyStark"
 		/>
 	</SectionContent>
 </SectionItem>
