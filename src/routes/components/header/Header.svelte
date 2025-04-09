@@ -18,7 +18,7 @@
 
 	<div class="grow col gap-4 md:gap-2 items-center md:items-stretch justify-center">
 		<div class="col md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
-			<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani</h1>
+			<h1 class="text-2xl md:text-3xl font-semibold">Kabir Asani (Fullstack Developer)</h1>
 		</div>
 
 		<div class="wrap md:row gap-4 md:gap-2 items-center justify-center md:justify-normal">
